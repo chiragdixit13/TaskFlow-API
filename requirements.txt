@@ -4,3 +4,4 @@ sqlalchemy
 psycopg[binary]
 ruff
 pytest
+httpx2
